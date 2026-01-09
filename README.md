@@ -1,25 +1,45 @@
-### Olá! Eu sou o Eduardo Alves
+##   Olá! Eu sou o Eduardo
 
+**`(Java Developer)`**
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Estudante de programação | 🚀 Desenvolvedor(a) Backend em formação  
+💡 Focado(a) em Java, Spring Boot e desenvolvimento de APIs
 
-<div align="center">
-  <a href="https://github.com/EduardoAlves-34">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoAlves-34&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlves-34&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+---
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="=-Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="-Spring" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
- </div>
-  
-##
+### 🧠 Sobre mim
+Sou estudante e desenvolvedor(a) júnior com foco em **Backend**, atualmente aprofundando meus estudos em **Java e Spring Boot**.  
+Tenho interesse em boas práticas, arquitetura de software e desenvolvimento de aplicações escaláveis.  
+Uso este GitHub para documentar minha evolução e compartilhar projetos.
 
-<a href = "mailto:eduardoalvesz3453@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/eduh-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
+
+### 📚 O que estou estudando atualmente
+- Introdução a Bancos Não Relacionais (NoSQL)
+- Boas práticas de Backend
+- AWS
+
+---
+
+### 🛠️ Tecnologias (Backend)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</p>
+
+---
+
+### 🔗 Conecte-se comigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/eduh-alves/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
