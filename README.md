@@ -2,13 +2,13 @@
 
 **`(Java Developer)`**
 
-🎓 Estudante de programação | 🚀 Desenvolvedor(a) Backend em formação  
+🎓 Estudante de programação | 🚀 Desenvolvedor Backend em formação  
 💡 Focado(a) em Java, Spring Boot e desenvolvimento de APIs
 
 ---
 
 ### 🧠 Sobre mim
-Sou estudante e desenvolvedor(a) júnior com foco em **Backend**, atualmente aprofundando meus estudos em **Java e Spring Boot**.  
+Sou estudante e desenvolvedor júnior com foco em **Backend**, atualmente aprofundando meus estudos em **Java e Spring Boot**.  
 Tenho interesse em boas práticas, arquitetura de software e desenvolvimento de aplicações escaláveis.  
 Uso este GitHub para documentar minha evolução e compartilhar projetos.
 
