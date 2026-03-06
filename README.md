@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/EduardoAlves-34"><img src="https://img.shields.io/badge/Commits-124-brightgreen?style=flat&logo=git" alt="Commits"></a>
+  <a href="https://github.com/EduardoAlves-34"><img src="https://img.shields.io/badge/Commits-30-brightgreen?style=flat&logo=git" alt="Commits"></a>
   <img src="https://img.shields.io/badge/Focus-Backend-blue?style=flat"/>
   <img src="https://img.shields.io/badge/Language-Java-red?style=flat"/>
   <img src="https://img.shields.io/badge/Framework-Spring-green?style=flat"/>
